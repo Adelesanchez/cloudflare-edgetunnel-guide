@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">EdgeTunnel 管理后台示意图</title>
+  <desc id="desc">展示节点链接和订阅地址所在区域，所有敏感信息均以占位文字替代。</desc>
+  <rect width="1200" height="720" rx="24" fill="#f5f3ff"/>
+  <rect x="90" y="55" width="1020" height="90" rx="18" fill="#ffffff" stroke="#fbbf24" stroke-width="2"/>
+  <rect x="90" y="185" width="1020" height="270" rx="18" fill="#ffffff"/>
+  <rect x="90" y="495" width="1020" height="155" rx="18" fill="#ffffff"/>
+  <g font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="125" y="112" font-size="30" font-weight="600" fill="#d97706">EdgeTunnel 设置页面（示意）</text>
+    <text x="125" y="240" font-size="25" font-weight="600" fill="#1e293b">获取节点链接</text>
+    <text x="130" y="305" font-size="20" fill="#475569">节点链接格式</text>
+    <rect x="350" y="270" width="660" height="52" rx="10" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="680" y="304" font-size="19" text-anchor="middle" fill="#94a3b8">节点链接已隐藏，请使用自己的后台配置</text>
+    <text x="130" y="390" font-size="20" fill="#475569">自适应订阅</text>
+    <rect x="350" y="355" width="660" height="52" rx="10" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="680" y="389" font-size="19" text-anchor="middle" fill="#94a3b8">订阅地址与令牌已隐藏</text>
+    <text x="125" y="555" font-size="24" font-weight="600" fill="#1e293b">安全提醒</text>
+    <text x="125" y="605" font-size="20" fill="#475569">不要公开节点链接、订阅令牌、UUID 或二维码。</text>
+  </g>
+</svg>
