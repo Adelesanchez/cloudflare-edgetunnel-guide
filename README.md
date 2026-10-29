@@ -238,10 +238,9 @@ https://你的域名/admin
 - 谨慎使用第三方订阅转换和 ProxyIP 服务；
 - 不再使用时，及时清理 Pages 项目、KV 绑定及不再需要的 DNS 记录。
 
-## 参考与配图来源
+## 客户端
 
-- 教程参考：[零度博客原教程](https://www.freedidi.com/23618.html)
 - 开源项目：[cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)
 - 客户端示例：[2dust/v2rayN](https://github.com/2dust/v2rayN)
 
-本文根据原教程重新整理，删除了广告和无法保证的宣传性描述。普通步骤截图引用自原教程，仅用于说明操作位置，相关权利归原作者所有；Cloudflare 和项目后台界面可能随版本更新而变化。部署结构图与后台示意图为本文重新绘制。
+本文重新整理。普通步骤截图引用自原教程，仅用于说明操作位置，相关权利归原作者所有；Cloudflare 和项目后台界面可能随版本更新而变化。部署结构图与后台示意图为本文重新绘制。
